@@ -1,0 +1,150 @@
+
+.navbar-inverse
+{
+	background: #2f457d;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-brand
+{
+	background: #2f457d;
+	color: #eeeeee;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus
+{
+	background: #2c2e5f;
+}
+
+.navbar-inverse .navbar-sidebar-toggle > li > a:hover,
+.navbar-inverse .navbar-sidebar-toggle > li > a:focus
+{
+	background: transparent;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus
+{
+	background: #2f457d;
+	color: #ffffff;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus
+{
+	background: #2f457d;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus
+{
+	background: #2c2e5f;
+	color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a
+{
+	color: #eeeeee;
+}
+
+.sidebar
+{
+	background-color: #f8fcff;
+	border-right: 1px solid #cccccc;
+}
+
+.sidebar-menu > li.header
+{
+	background: #F8FCFF;
+	color: #586ea5;
+	font-weight: bold;
+}
+
+.sidebar-menu > li.treeview
+{
+	background: #ffffff;
+	color: #333333;
+	font-weight: bold;
+}
+
+.sidebar-menu > li.treeview > ul
+{
+	font-weight: normal;
+}
+
+.sidebar-menu > li > a
+{
+	border-left: 3px solid transparent;
+}
+
+.sidebar-menu > li:hover > a,
+.sidebar-menu > li.active > a
+{
+	border-left-color: #2c2e5f;
+	background: #6c82b9;
+	color: #ffffff;
+}
+
+.sidebar-menu > li > .treeview-menu
+{
+	margin: 0;
+	padding-left: 10px;
+	background: #ffffff;
+	color: #333333;
+	font-weight: normal;
+}
+
+.sidebar-collapse .sidebar-menu > li > .treeview-menu
+{
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	border-radius-topleft: 0px;
+	border-radius-topright: 0px;
+	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .275);
+	box-shadow: 0 6px 12px rgba(0, 0, 0, .275);
+}
+
+.sidebar a
+{
+	color: #444444;
+}
+
+.sidebar a:hover
+{
+	text-decoration: none;
+}
+
+.treeview-menu > li > a
+{
+	color: #333333;
+	border-left: 3px solid transparent;
+}
+
+.treeview-menu > li.active > a
+{
+	color: #333333;
+	background: #eef0ff;
+	border-left-color: #2c2e5f;
+}
+
+.treeview-menu > li > a:hover
+{
+	background: #6c82b9;
+	color: #ffffff;
+}
+
+.footer
+{
+	background: #2f457d;
+	color: #eeeeee;
+}
+
+.footer a
+{
+	color: #eeeeee;
+	font-weight: bold;
+}
